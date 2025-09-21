@@ -1,0 +1,19 @@
+/* nav.css */
+.home-ul {
+  list-style: none;      
+  display: flex;           
+  justify-content: space-around; 
+  background-color: #bec1c4; 
+  padding: 10px;
+  margin: 0;
+}
+
+.home-ll {
+  color: white;           
+  cursor: pointer;
+}
+
+.home-ll h1 {
+  font-size: 18px;
+  margin: 0;
+}
