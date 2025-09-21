@@ -65,7 +65,7 @@ function UpdateOrder() {
   return (
     <div>
        
-      <h1>Update Order</h1>
+      <h1>UPDATE ORDER</h1>
       {inputs && (
         <form onSubmit={handleSubmit}>
           <label>Customer Name</label>
